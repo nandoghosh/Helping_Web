@@ -39,7 +39,7 @@ body {
 
 .header-button {
     font-weight: bold;
-    border-radius: 5px;
+    border-radius: 10px;
     text-decoration: none;
     color: white;
     background-color: #FF5959;
@@ -89,3 +89,87 @@ body {
 .add-tk h2 {
     font-weight: 900;
 }
+
+.other {
+    margin: 0% 20% 3% 20%;
+}
+
+.money-button {
+    font-weight: bold;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    padding: 20px 40px;
+    font-size: 35px;
+    position: relative;
+}
+
+/*------End_Donate----*/
+
+/*------Start_Donate Plan----*/
+
+.donate-plan {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.donate-plan h1 {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.donate-plan p {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 20px;
+
+}
+
+.donate-box {
+    margin: 5% 5% 5% 5%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.donate-box img {
+    width: 100px;
+}
+
+.donate-box h1 {
+    margin-top: 20%;
+    font-size: 35px;
+}
+
+.donate-box p {
+    font-size: 20px;
+}
+
+.box1 {
+    background: #EDF5F6;
+    border-radius: 10px;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+.box2 {
+    margin-left: 2%;
+    background: #FFEEEE;
+    border-radius: 10px;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+.box3 {
+    margin-left: 2%;
+    background: #FFF4D6;
+    border-radius: 10px;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+/*------End_Donate----*/
