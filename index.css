@@ -130,7 +130,7 @@ body {
 }
 
 .donate-box {
-    margin: 5% 5% 5% 5%;
+    margin: 5% 5% 0% 5%;
     display: flex;
     justify-content: space-between;
 
@@ -173,3 +173,79 @@ body {
 }
 
 /*------End_Donate----*/
+
+/*------Start_Donate Updates----*/
+.updates {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.updates h1 {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.updates p {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 20px;
+
+}
+
+.get-box {
+    margin: 3% 10% 5% 10%;
+    width: 80%px;
+    height: 300px;
+    background: #FFF4D6;
+    padding: 45px 30px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.email-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5% 15% 5% 15%;
+    width: 70%px;
+    height: 80px;
+    background: #D9D9D9;
+    color: darkgrey;
+    padding: 45px 30px;
+    border-radius: 5px;
+    box-sizing: border-box;
+
+}
+
+
+/*------End_Donate Updates----*/
+
+
+/*------Start_Footer----*/
+.footer {
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+footer h1 {
+    color: red;
+    margin: 0px;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+footer p {
+    font-size: 20px;
+    font-weight: 400;
+
+    padding: 20px;
+}
+
+/*------End_Footer----*/
