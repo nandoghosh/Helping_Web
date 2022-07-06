@@ -86,7 +86,14 @@ body {
     box-sizing: border-box;
 }
 
+.color {
+    background-color: #FFEEEE;
+    color: #FF5959;
+    border: 2px solid #FF5959;
+}
+
 .add-tk h2 {
+    font-size: 30px;
     font-weight: 900;
 }
 
@@ -173,6 +180,66 @@ body {
 }
 
 /*------End_Donate----*/
+
+
+/*------Start_Work----*/
+
+.flexiable {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    text-align: left;
+    padding-top: 100px;
+
+}
+
+.flexiable h1 {
+    font-size: 50px;
+}
+
+.flexiable h2 {
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.name-color {
+    color: orange;
+}
+
+.left-width {
+    width: 50%;
+}
+
+.right-width {
+    width: 50%;
+}
+
+.right-width img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.button {
+    font-weight: bold;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    padding: 20px 30px;
+    font-size: 25px;
+    position: relative;
+
+}
+
+.continer {
+    padding: 20px;
+    text-align: justify;
+    margin: 10px;
+
+}
+
+
+/*------End_Work----*/
 
 /*------Start_Donate Updates----*/
 .updates {
